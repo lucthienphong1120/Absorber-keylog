@@ -17,15 +17,15 @@ The use of the Absorber & its resources is **COMPLETE RESPONSIBILITY of the END-
 
 
 ### Features
-* Send logs each 120 seconds.
-* Send logs when chars > 20.
-* Send logs with GMAIL.
-* Multiple Session disabled.
-* Auto Persistence.
-* Some Phishing methods are included.
+* Send logs each 120 seconds
+* Send logs when chars > 20
+* Send logs with GMAIL
+* Multiple Session disabled
+* Auto Persistence
+* Some Phishing methods are included
 * Self-destruct
 * Takes screenshot
-* Fake icon
+* Fake app (Adobe, Word, Excel, ...)
 
 
 ## HOW TO INSTALL
